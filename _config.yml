@@ -1,0 +1,14 @@
+layout_spectrum: 0.12510131066665053
+typography_spectrum: 0.4622139474377036
+color:
+  brandStrength: 0.572169539751485
+  lightness: 0.15057360078208148
+  saturation: 0.726656976621598
+  rhythmicContrast: 0.6139916137326509
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+name: ERA
